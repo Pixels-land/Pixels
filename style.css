@@ -1,0 +1,20 @@
+<style>
+  .custom-offcanvas {
+    background-color: #343a40; /* Lighter dark shade */
+    color: #f8f9fa; /* Light text color */
+  }
+  
+  .custom-offcanvas .offcanvas-body {
+    color: #f8f9fa; /* Light text color */
+  }
+  
+  .custom-offcanvas .list-group-item {
+    background-color: #495057; /* Slightly lighter dark shade */
+    color: #f8f9fa; /* Light text color */
+  }
+  
+  .custom-offcanvas .list-group-item:hover {
+    background-color: #6c757d; /* Even lighter on hover */
+    color: #f8f9fa; /* Light text color */
+  }
+</style>
